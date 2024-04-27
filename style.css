@@ -27,3 +27,9 @@ nav{
     cursor: pointer;
 }
 
+nav ul{
+    list-style: none;
+    width: 100%;
+    text-align: right;
+    padding-right: 60px;
+}
