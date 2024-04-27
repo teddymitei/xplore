@@ -56,3 +56,8 @@ nav ul li a{
     font-weight: 500;
     cursor: pointer;
 }
+
+.btn img{
+    width: 20px;
+    margin-right: 10px;
+}
